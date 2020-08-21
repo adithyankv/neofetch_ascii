@@ -1,70 +1,33 @@
- ${c1}
-                          ``.---..`                         
-                       `-ohmNNNNNNdyo-`                     
-                      .oNdhyyyyyyydmNMdo-`                  
-                     .oNhyyyyyyyyyyyyhmMNy:`                
-                    .oNhyyyyyyyyyyyyydhydNNs-`              
-                   `+NdyyyyyyyyyyyyyyyNMmhhNNs-`            
-                  `/NmyyyyyyyyyyyyyyyyyMMMNdhNm+`           
-                  :dMyyyyyyyyyyyyyyyyyyhMyyNMddNs.          
-                 .sMdyyyyyyyyyyyyyyyyyyymN/-/hNNMy-         
-                 /NNyyyhhhddddddddhhhyyyhMh- `:yMN/`        
-            `.-+sdMNmmmmddhhhhhhhhdddmmmmMMhs/--:s+.        
-        `.:shmMNmdhyyyyyyyyyyyyyyyyyyyyyyyhdmNNmyo:.`       
-    `.:shNNmdhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyhdmNmho-.    
- `-ohmMNmhhhyyyysssssyyyyyyyyyyyyyyyyyyyssssyyyyyhhdmMMmy/. 
-`+NMMMMMMMMMNNNMNMMNmdhyyhhhhhhhhhhyyyhdmNMMMMNNNMMMMMMMMMm:
-.sMdNMMMMMNNmmNN:/md/+sso//oyNMds+:/oyo/+Ny/+MmmNNNMMMMMdNM/
- :hMddmMMNNmmmMo::yh:/ymssyMN+:sMNsohms:/N/::dNmmmNNMMmdmNs.
-  .+dNNmmmdmmMy:o/Ns:::+ydNMM+:yMMmhs/::/hd/+:mNmmdmmmMNy:` 
-    `-+ydmMNNh:d+sN/::::////y::/y////::::oM/ss:mNMNmhs/.`   
-        `.:hh-d+:hMy::::/ysh+:::ysys::::/mMo:hs:mo-``       
-         .sd:do:shdMd+/+ms+yo//+ss/dh//omMsm/:ds/N/`        
-         :mhNs-sm/:hNNNMds/../+:`.+ymNNNNhdoN+:mmmy-        
-         /ohd-s+m/-.-hd:.---/yms:--.-/ms--N-hN/:Nso-        
-         ./M:ss:yo---y:++oyso+/+sss+//:ms:N/:mN/sd:`        
-          /Mhd--oy:-+Nmyooshysssyyso+dhmd/Mm:+mNhd-         
-          :+doo/-h:+d/dhmyhd-...-/+dmh--mydh+/Nhs/.         
-           :mhM:smmy:d+--/N-----:sd-m+--+M+hh/Mdy.          
-           .sdh+MMN+:h:--ss------:ds/m/-:shMMNym/`          
-            --+NdhM+-h:-:h/------:sy-+h-:+MNMm::`           
-              `/+-ys:h/-:m+-------+y::m::/N+dm`             
-                ` `yohh::ms------:od:/Ms::N.``              
-                   +d-+s:my:---::/mN/om/dsd                 
-                      :h:md/::::/m+sym/ `/`                 
-                      :hsh/yo:::d+ :N:                      
-                      -o/.  sh/oy                           
-                             omy.
-${c2}                           
-                         ▄███▀▀▀████▄_
-                       ╓█▀         "▀██▄_
-                      ▄█             ,"▀██▄
-                     ▄█              "█▄ ▀██▄
-                    ▄█                ▐███▄"▀
-                   ╒█▀                 ▀█▀██▌┌▀█
-                   █▌                   ██ '▀██▓█╕
-                  ██       ___,__       "█▌   "▀██
-                ,▄██▄███▀▀▀▀▀▀▀▀▀▀▀▀▀███▄██▄,    ▀¬
-           ╓▄███▀▀"`                     -"▀▀███▄_
-       ▄▄██▀▀-                                 └▀▀██▄▄
-   ▄▄████▄▄▄▄▄▄▄▄╥_____               ____╥¿▄▄▄▄▄▄▄▄████▄▄
- .██████████▀"▀███████▀▀▀███████████▀▀▀███████▀"▀██████████
-  ██▀█████▓▀` ▐█  ▀▌ *▀█▄▄_▄▄███▄▄╓▄▄█▀` █▀  █  '▀▓█████▀██
-  "██▄▓▀█▄▄▄,,█"  ▄▌  ▀█▄▄▄██  ▐██▄▄▄█▀  █▄  ▐█_,▄▄██▀▓██▀
-    '▀████▄▄▄█"┌▌ █     ─m▀▀█  ▐█▀▀W─    "█ ▓ ▀█▄▄▄███▀▀
-         "▀▀█¬╒█ ▐█      ,▄¥"   ▐æ▄_     ▐█  █_"█▀▀'
-           █¬╒█  ███▄   ▄▌ ┌"   "_ ▀µ   ▄█▌█  █,▐█
-          █▌██ ╒█─"█▄▀▄█▀█▀""▀▀▀""%█▀█▄▀▄██▐█  █▄█▌
-          ▀▐█ ┌▀█   '▓█▀     ╓█_     ▀█▌- █ ██  █▀▀
-           █"╒▌ ▐⌐   █ __,▄æ▀▀"▀▀▄▄_   █▌ █  ██_▐█
-           █▄█   ▌   ██▀▀"▄▄æΦΦ¥æ▄▄"▀▀▀██ ██  ██▄█
-            ▓▌▄⌐ █  █ █▀█▀▓█     ."▀██  █▄█▐_ █▐▌
-            ███ ▄██▌ █    █       █ █▌   █_▓█ ██▌
-             ▀▐▄███∩ ▌   "▌       ▐▌ ▀▄   ████⌐▀
-               ▀▌"█⌐ █   ▓⌐        ▌  █   █▀██
-                  "▌ ▐▄  █▌        ▌  █   █⌐"▀
-                   ▀█▀▀  █▌       ▐█  ██▄ █
-                    '  █ ██      ▄██⌐▐▌ "█▀
-                       ▐ █"▄    ▐█ ▐█
-                       ╨▀   █▄  █   -
-                             ▀█▄"
+ ${c1}                     
+                         oMMM---MMMMo_
+                       ╓M-         "-MMo_
+                      oM             ,"-MMo
+                     oM              "Mo -MMo
+                    oM                lMMMo"-
+                   ╒M-                 -M-MMK┌-M
+                   MK                   MM '-MM▓M╕
+                  MM       ___,__       "MK   "-MM
+                ,oMMoMMM-------------MMMoMMo,    -¬
+           ╓oMMM--"`                     -"--MMMo_
+       ooMM---                                 └--MMoo
+   ooMMMMoooooooo╥_____               ____╥¿ooooooooMMMMoo
+ .MMMMMMMMMM-"-MMMMMMM---MMMMMMMMMMM---MMMMMMM-"-MMMMMMMMMM
+  MM-MMMMM▓-` ${c2}lM${c3}  -K *-   _ oMMM o    -` M-${c2}  M${c1}  '-▓MMMMM-MM
+  "MMo▓-Mooo,,${c2}M"${c3}  oKoo-Mooo M  l MoooM-ooMo  ${c2}lM_${c1},ooMM-▓MM-
+    '-MMMMoooM"${c2}┌K${c3} Maaaaaaaa M  l       M J ${c2}-M${c1}oooMMM--
+         ${c2}"--M¬╒M ${c3}lMoaaaa ,o¥"   læo_    olM${c2}  M_"M--'
+           M¬╒M  ${c3}MMMooo oK ┌"   "_ -µ oooMKM${c2}  M,lM
+          MKMM ╒M─"${c3}Mo-oM${c2}-M-""---""%M-Mo-oMMl${c2}M  MoMK
+          -lM ┌-M   '▓M-     ╓M_     -MK- M MM  M--
+           M"╒K l⌐   M __,oæ--"--oo_   MK M  MM_lM
+           MoM   K   MM--"ooæΦΦ¥æoo"---MM MM  MMoM
+            ▓Ko⌐ M  M M-M-▓M     ."-MM  MoMl_ MlK
+            MMM oMMK M    M       M MK   M_▓M MMK
+             -loMMM∩ K   "K       lK -o   MMMM⌐-
+               -K"M⌐ M   ▓⌐        K  M   M-MM
+                  "K lo  MK        K  M   M⌐"-
+                   -M--  MK       lM  MMo M
+                    '  M MM      oMM⌐lK "M-
+                       l M"o    lM lM
+                       ╨-   Mo  M   -
+                             -Mo"
