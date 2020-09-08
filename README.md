@@ -1,5 +1,9 @@
 # Neofetch ASCII
 custom ascii art files i made for use in neofetch
+
+##Preview
+![ASCII-wizard-preview](/images/merlin.png)
+
 ## How to use
 Clone the repo or download its contents
 
