@@ -3,6 +3,7 @@ custom ascii art files i made for use in neofetch
 
 ## Preview
 ![ASCII-wizard-preview](/images/merlin.png)
+![ASCII-skull-preview](/images/skull.png)
 
 ## How to use
 Clone the repo or download its contents
